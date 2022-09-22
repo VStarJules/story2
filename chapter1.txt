@@ -1,1 +1,2 @@
 This is my fake story for class 
+so i can learn how to use git. 
